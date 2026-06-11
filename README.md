@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ian Russo
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ian-a-russo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 🚀 Full Stack Developer focused on building scalable web applications, APIs, and microservices.
 
 Currently working with corporate systems, developing backend and frontend solutions with a strong focus on code quality, software architecture, and maintainability.
@@ -74,6 +72,10 @@ Currently working with corporate systems, developing backend and frontend soluti
 * System Design
 * Automation
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-a-russo&layout=compact&theme=github_dark)
+
 ## 📫 Connect With Me
 
 * LinkedIn: linkedin.com/in/ian-russo-875572317
@@ -83,8 +85,4 @@ Currently working with corporate systems, developing backend and frontend soluti
 
 > Building reliable software through clean architecture and continuous improvement.
 
-## 📊 GitHub Stats
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-a-russo&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-a-russo&layout=compact&theme=github_dark)
