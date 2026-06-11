@@ -80,8 +80,17 @@ Currently working with corporate systems, developing backend and frontend soluti
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/ian-russo-875572317
-* Email: [ian.russo.dev@gmail.com](mailto:ian.russo.dev@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/ian-russo-875572317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ian%20Russo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:ian.russo.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ian.russo.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
