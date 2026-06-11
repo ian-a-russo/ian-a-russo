@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Ian Russo
 
-<!--
-**ian-a-russo/ian-a-russo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer passionate about building scalable, maintainable, and impactful software.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into reliable products through clean architecture, automation, and modern TypeScript development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Frontend
+
+* Vue.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+
+### Backend
+
+* NestJS
+* Node.js
+* REST APIs
+
+### Database
+
+* PostgreSQL
+
+### DevOps & Tools
+
+* Docker
+* Git
+* Linux
+
+## 🌱 Currently Improving
+
+* Software Architecture
+* Design Patterns
+* Automated Testing
+* Cloud & DevOps Practices
+
+## 🎯 Areas of Interest
+
+* Full Stack Development
+* Software Architecture
+* Process Automation
+* Developer Experience
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/ian-russo-875572317
+
+---
+
+> "First, solve the problem. Then, write the code."
