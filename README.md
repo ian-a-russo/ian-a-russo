@@ -1,53 +1,82 @@
 # 👋 Hi, I'm Ian Russo
 
-🚀 Full Stack Developer passionate about building scalable, maintainable, and impactful software.
+🚀 Full Stack Developer focused on building scalable web applications, APIs, and microservices.
 
-I enjoy turning ideas into reliable products through clean architecture, automation, and modern TypeScript development.
+Currently working with corporate systems, developing backend and frontend solutions with a strong focus on code quality, software architecture, and maintainability.
 
 ## 💻 Tech Stack
+
+### Languages
+
+* TypeScript
+* JavaScript
+* C#
+* PHP
+* Python
+* SQL
+* Apex
 
 ### Frontend
 
 * Vue.js
-* TypeScript
-* JavaScript
+* React
+* Lightning Web Components (LWC)
 * HTML5
 * CSS3
 
 ### Backend
 
-* NestJS
 * Node.js
+* NestJS
+* Laravel
+* .NET
+* ASP.NET Core
 * REST APIs
+* GraphQL
 
-### Database
+### Databases
 
 * PostgreSQL
+* MySQL
+* SQLite
 
-### DevOps & Tools
+### Tools
 
-* Docker
 * Git
+* Docker
+* Insomnia
+* Hoppscotch
 * Linux
+* Antigravity
 
-## 🌱 Currently Improving
+### Platforms
 
-* Software Architecture
-* Design Patterns
-* Automated Testing
-* Cloud & DevOps Practices
+* Salesforce
+
+## 🏗️ Engineering Practices
+
+* Clean Architecture
+* SOLID Principles
+* Clean Code
+* Microservices
+* Unit Testing
+* Integration Testing
+* Code Review
+* Agile Development
 
 ## 🎯 Areas of Interest
 
 * Full Stack Development
+* Backend Engineering
 * Software Architecture
-* Process Automation
-* Developer Experience
+* System Design
+* Automation
 
 ## 📫 Connect With Me
 
 * LinkedIn: linkedin.com/in/ian-russo-875572317
+* Email: [ian.russo.dev@gmail.com](mailto:ian.russo.dev@gmail.com)
 
 ---
 
-> "First, solve the problem. Then, write the code."
+> Building reliable software through clean architecture and continuous improvement.
