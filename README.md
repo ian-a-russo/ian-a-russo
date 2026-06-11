@@ -32,7 +32,7 @@ Currently working with corporate systems, developing backend and frontend soluti
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
 </p>
 
 ### Tools
@@ -47,10 +47,12 @@ Currently working with corporate systems, developing backend and frontend soluti
   <img src="https://img.shields.io/badge/Antigravity-AI-blue?style=for-the-badge" />
 </p>
 
-### Platforms
+### Salesforce
 
 <p>
-  <img src="https://skillicons.dev/icons?i=salesforce" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
 ## 🏗️ Engineering Practices
