@@ -15,7 +15,7 @@ Currently working with corporate systems, developing backend and frontend soluti
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=vue,next,astro,react,html,css" />
 </p>
 
 ### Backend
