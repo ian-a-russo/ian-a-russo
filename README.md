@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ian Russo
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ian-a-russo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 🚀 Full Stack Developer focused on building scalable web applications, APIs, and microservices.
 
 Currently working with corporate systems, developing backend and frontend solutions with a strong focus on code quality, software architecture, and maintainability.
@@ -8,50 +10,50 @@ Currently working with corporate systems, developing backend and frontend soluti
 
 ### Languages
 
-* TypeScript
-* JavaScript
-* C#
-* PHP
-* Python
-* SQL
-* Apex
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,php,python" />
+</p>
 
 ### Frontend
 
-* Vue.js
-* React
-* Lightning Web Components (LWC)
-* HTML5
-* CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,html,css" />
+</p>
 
 ### Backend
 
-* Node.js
-* NestJS
-* Laravel
-* .NET
-* ASP.NET Core
-* REST APIs
-* GraphQL
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,dotnet" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+</p>
 
 ### Databases
 
-* PostgreSQL
-* MySQL
-* SQLite
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
 
 ### Tools
 
-* Git
-* Docker
-* Insomnia
-* Hoppscotch
-* Linux
-* Antigravity
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antigravity-AI-blue?style=for-the-badge" />
+</p>
 
 ### Platforms
 
-* Salesforce
+<p>
+  <img src="https://skillicons.dev/icons?i=salesforce" />
+</p>
 
 ## 🏗️ Engineering Practices
 
@@ -80,3 +82,9 @@ Currently working with corporate systems, developing backend and frontend soluti
 ---
 
 > Building reliable software through clean architecture and continuous improvement.
+
+## 📊 GitHub Stats
+
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-a-russo&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-a-russo&layout=compact&theme=github_dark)
