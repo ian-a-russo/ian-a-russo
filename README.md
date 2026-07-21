@@ -74,10 +74,6 @@ Currently working with corporate systems, developing backend and frontend soluti
 * System Design
 * Automation
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-a-russo&layout=compact&theme=github_dark)
-
 ## 📫 Connect With Me
 
 <p>
