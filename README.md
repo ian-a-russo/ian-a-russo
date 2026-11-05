@@ -1,8 +1,44 @@
 # 👋 Hi, I'm Ian Russo
 
-🚀 Full Stack Developer focused on building scalable web applications, APIs, and microservices.
+**Full Stack Developer | Software Engineer**
 
-Currently working with corporate systems, developing backend and frontend solutions with a strong focus on code quality, software architecture, and maintainability.
+I build scalable web applications, APIs, and business-oriented software solutions, focusing on clean architecture, maintainability, and reliable systems.
+
+Currently working with corporate software development, combining backend engineering, frontend development, database design, and system integrations to solve real-world problems.
+
+## 🚀 Featured Projects
+
+A selection of applications I've designed and developed.
+
+### 🛍️ [Scafi — Sales Management](https://scafi.kyveron.com.br/)
+
+A web application focused on sales management and business operations, helping organize commercial processes and manage sales activities.
+
+**Stack:** Vue 3 · TypeScript · NestJS · PostgreSQL
+
+[🌐 Live Application](https://scafi.kyveron.com.br/)
+
+---
+
+### 🎵 [MusiKyveron — Band Management](https://musi.kyveron.com.br/)
+
+A platform designed to simplify music team management, organizing members, schedules, and activities in a centralized environment.
+
+**Stack:** Vue 3 · TypeScript · NestJS · PostgreSQL
+
+[🌐 Live Application](https://musi.kyveron.com.br/)
+
+---
+
+### 📅 [KaeaK — Task & Schedule Management](https://kaek.kyveron.com.br/)
+
+An application focused on organizing tasks, schedules, and daily activities, helping users manage their routines and stay productive.
+
+**Stack:** Vue 3 · TypeScript · NestJS · PostgreSQL
+
+[🌐 Live Application](https://kaek.kyveron.com.br/)
+
+---
 
 ## 💻 Tech Stack
 
@@ -35,7 +71,7 @@ Currently working with corporate systems, developing backend and frontend soluti
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
 </p>
 
-### Tools
+### Tools & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,linux" />
@@ -57,32 +93,33 @@ Currently working with corporate systems, developing backend and frontend soluti
 
 ## 🏗️ Engineering Practices
 
-* Clean Architecture
-* SOLID Principles
-* Clean Code
-* Microservices
-* Unit Testing
-* Integration Testing
-* Code Review
-* Agile Development
+- Clean Architecture
+- SOLID Principles
+- Clean Code
+- Object-Oriented Programming
+- RESTful API Design
+- Microservices Architecture
+- Unit & Integration Testing
+- Automated Testing
+- Code Review
+- Agile Development
 
 ## 🎯 Areas of Interest
 
-* Full Stack Development
-* Backend Engineering
-* Software Architecture
-* System Design
-* Automation
+- Full Stack Development
+- Backend Engineering
+- Software Architecture
+- System Design
+- Distributed Systems
+- Artificial Intelligence Integration
+- Process Automation
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/ian-russo-875572317" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ian%20Russo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p>
   <a href="mailto:ian.russo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-ian.russo.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -90,6 +127,4 @@ Currently working with corporate systems, developing backend and frontend soluti
 
 ---
 
-> Building reliable software through clean architecture and continuous improvement.
-
-
+> Building reliable software, turning ideas into products, and continuously improving through engineering.
