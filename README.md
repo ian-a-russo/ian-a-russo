@@ -30,7 +30,7 @@ A platform designed to simplify music team management, organizing members, sched
 
 ---
 
-### 📅 [KaeaK — Task & Schedule Management](https://kaek.kyveron.com.br/)
+### 📅 [KaeK — Task & Schedule Management](https://kaek.kyveron.com.br/)
 
 An application focused on organizing tasks, schedules, and daily activities, helping users manage their routines and stay productive.
 
